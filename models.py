@@ -20,3 +20,4 @@ class Address(db.Model):
 
 
 print("test")
+print("test")
